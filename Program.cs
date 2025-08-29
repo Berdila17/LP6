@@ -1,24 +1,33 @@
 namespace RPG
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            // Magier erstellen 
+            var merlin = new Spieler("Merlin", Spielerklasse.Magier, 60);
+            merlin.Vorstellen();
 
-            //Erzeugen eines Objekts
-            Charakter paladin;
-            paladin = new Charakter();
+            // Spieler nimmt Schaden
+            merlin.NimmSchaden(15);
+            Console.Write("Nach Schaden: "); merlin.Vorstellen();
 
-            //Attribute setzen
-            paladin.Name = "Paladin";
-            paladin.HP = 75;
+            // Spieler heilt sich wieder
+            merlin.Heilen(10);
+            Console.Write("Nach Heilen:  "); merlin.Vorstellen();
 
-            //Methode aufrufen
+            // Andere Klassen testen
+            var arthur = new Spieler("Arthur", Spielerklasse.Krieger, 100);
+            var sly    = new Spieler("Sly", Spielerklasse.Dieb, 70);
 
-            paladin.Vorstellen();
-            Console.ReadLine();
+            arthur.Vorstellen();
+            sly.Vorstellen();
 
+            // IstLebendig() testen
+            Console.WriteLine($"Lebt Merlin? {merlin.IstLebendig()}");
 
+            Console.ReadLine(); 
         }
     }
 }
+
