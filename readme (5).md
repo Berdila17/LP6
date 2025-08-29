@@ -31,7 +31,7 @@
 
 📵 Eines dieser Arbeitspakete ist offline.
 
-✍️ Heute habe ich die Spielermethoden offline auf ein Papier gemacht also das Konzept dahinter und dann es implentiert dazu habe ich die andere 2 Arbeitspakete erledigt
+✍️ Heute habe ich die Spielermethoden offline auf ein Papier gemacht also das Konzept dahinter und dann es implentiert dazu habe ich die andere 2 Arbeitspakete erledigt anschliessend hab ich dann alles im Program.cs getestet und es hat auch funktioniert um Übersicht zu behalten hab ich Kommentare hinzugefügt mithilfe von ChatGBT habe ihm gesagt er soll mein Code erklären einfach mithilfe von Kommentare.
 ![bffcf213-5ac0-48ab-a9ee-9e42ac607739](https://github.com/user-attachments/assets/d2feccf2-6307-4367-8ab9-3b06d2669128)
 
 
@@ -43,5 +43,6 @@
 - [ ] Kapselung für HP einbauen so das es nicht von draussen verändert werden kann
 - [ ] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
