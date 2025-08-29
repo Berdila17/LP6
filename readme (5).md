@@ -15,9 +15,9 @@
 
 ## 22.8
 
-- [ ] Arbeitspaket 1: Projekt erstellen,einrichten etc.
-- [ ] Arbeitspaket 2: Liste mit alle Objekte und Klassen die es braucht 
-- [ ] Arbeitspaket 3: Erste Klassen,Objekte,Attribute und Methode schon mal coden
+- [x] Arbeitspaket 1: Projekt erstellen,einrichten etc.
+- [x] Arbeitspaket 2: Liste mit alle Objekte und Klassen die es braucht 
+- [x] Arbeitspaket 3: Erste Klassen,Objekte,Attribute und Methode schon mal coden
 
 ✍️ Heute habe ich mein Projekt zuerst eingerichtet danach wurde die Liste auf Papier gemacht mit was es so alles haben soll zum Schluss hab ich schonmal eine erste Klasse,Objekt,Methode und Attriubute erstellt (nächste woche werd ich diese Ausbreiten)
 
@@ -25,13 +25,23 @@
 
 ## 29.8
 
-- [ ] Spielermethoden für den Charakter entwickeln wie istLebendig und Heilen
-- [ ] Klasse Waffe erstellen
-- [ ] Für jeden Charakter eine Standardwaffe setzen wie z.B Magier hat Zauberstab
+- [x] Spielermethoden für den Charakter entwickeln wie istLebendig und Heilen
+- [x] Klasse Waffe erstellen
+- [x] Für jeden Charakter eine Standardwaffe setzen wie z.B Magier hat Zauberstab
 
 📵 Eines dieser Arbeitspakete ist offline.
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich die Spielermethoden offline auf ein Papier gemacht also das Konzept dahinter und dann es implentiert dazu habe ich die andere 2 Arbeitspakete erledigt
+![bffcf213-5ac0-48ab-a9ee-9e42ac607739](https://github.com/user-attachments/assets/d2feccf2-6307-4367-8ab9-3b06d2669128)
 
+
+
+## 5.9
+
+- [ ] Neue Klasse Gegner erstellen die Struktur wird ähnlich wie bei Spieler sein
+- [ ] Eine Methode für Angreifen entwickeln bei den Gegner Schaden nehmen
+- [ ] Kapselung für HP einbauen so das es nicht von draussen verändert werden kann
+- [ ] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
