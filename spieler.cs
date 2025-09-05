@@ -1,4 +1,4 @@
-namespace TextRPG
+namespace RPG
 {
     // Spielerklasse
     public enum Spielerklasse { Krieger, Magier, Dieb }
@@ -47,7 +47,7 @@ namespace TextRPG
             HP = Math.Max(0, HP - punkte);
         }
 
-        // Spieler stellt sich vor genauer
+        // Spieler stellt sich vor 
         public void Vorstellen()
         {
             Console.WriteLine($"{Name} ({Klasse}) – HP: {HP}/{MaxHP}, Waffe: {Waffe}");
