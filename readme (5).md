@@ -38,11 +38,30 @@
 
 ## 5.9
 
-- [ ] Neue Klasse Gegner erstellen die Struktur wird ähnlich wie bei Spieler sein
-- [ ] Eine Methode für Angreifen entwickeln bei den Gegner Schaden nehmen
-- [ ] Kapselung für HP einbauen so das es nicht von draussen verändert werden kann
-- [ ] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft
+- [x] Neue Klasse Gegner erstellen die Struktur wird ähnlich wie bei Spieler sein
+- [x] Eine Methode für Angreifen entwickeln bei den Gegner Schaden nehmen
+- [x] Kapselung für HP einbauen so das es nicht von draussen verändert werden kann
+- [x] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft
+
+
+
+ Heute hab ich zuerst die neue Gegner Klasse erstellt und danach die Methode zum Angreifen implentiert wodurch die Gegner dann Schaden nehmen zum Schluss dann wurde die Kapselung für HP eingebaut und das Offline Arbeitspaket bei dem ich mir vorgestellt hab wie es funktionieren soll wenn man Gegner nacheinander bekämpfen soll
+
+
+![018828d4-78ef-432b-aa67-7a8ccd0274c9](https://github.com/user-attachments/assets/786c8c3b-5dd4-44b3-a530-d551e7e420e5)
+
+
+
+## 12.9 
+
+- [ ] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft implementieren
+- [ ] Eine Benutzereingabe hineinfügen welche Klasse möchte man haben?
+- [ ] Zweite Benutzereingabe für eine Waffenauswahl.
+- [ ] Den Schaden zufällig auswählen zum Beispiel bei ein Critical Hit irgendwo von 40-60 HP .
+
+ 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
