@@ -54,13 +54,27 @@
 
 ## 12.9 
 
-- [ ] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft implementieren
-- [ ] Eine Benutzereingabe hineinfügen welche Klasse möchte man haben?
-- [ ] Zweite Benutzereingabe für eine Waffenauswahl.
-- [ ] Den Schaden zufällig auswählen zum Beispiel bei ein Critical Hit irgendwo von 40-60 HP .
+- [x] Die Gegner in einer Liste machen und mit einer Schleife einbauen so das der Spieler nacheinander auf die Gegner trifft implementieren
+- [x] Eine Benutzereingabe hineinfügen welche Klasse möchte man haben?
+- [x] Zweite Benutzereingabe für eine Waffenauswahl.
+- [x] Den Schaden zufällig auswählen zum Beispiel bei ein Critical Hit irgendwo von 40-60 HP .
 
- 
+  Heute hab ich alle Arbeitspakete erledigt Den Schaden zufällig zu auswählen war für mich die grösste Herausforderung weil ich den Zufall nicht erzeugen konnte da ich vergessen habe wie das geht aber ChatGBT hat mir danach ein Theorieinput dazu gegeben. Die Benutzereingaben waren gute Arbeitspakete bei dem ich keine Probleme hatte und die Gegner in eine Liste zu packen war auch nicht schwer vielleicht werd ich die Liste im Laufe erweitern.
+
+
+
+## 19.9
+
+- [ ] Mehrere Runden also eine while Schleife einbauen (solange Spieler lebt kämpfe weiter z.B)
+- [ ] Sieg oder Niederlage prüfen also ob der Kampf zu Ende ist oder nicht.
+- [ ] XP Sytem einbauen also nach jedem    Gegner den man besiegt bekommt man XP
+- [ ] besondere Fähigkeiten an verschiedene Klassen sowie z.B Heiler heilt sich jede Runde 2 HP
+
+
+
+
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
