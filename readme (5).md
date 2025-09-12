@@ -59,7 +59,7 @@
 - [x] Zweite Benutzereingabe für eine Waffenauswahl.
 - [x] Den Schaden zufällig auswählen zum Beispiel bei ein Critical Hit irgendwo von 40-60 HP .
 
-  Heute hab ich alle Arbeitspakete erledigt Den Schaden zufällig zu auswählen war für mich die grösste Herausforderung weil ich den Zufall nicht erzeugen konnte da ich vergessen habe wie das geht aber ChatGBT hat mir danach ein Theorieinput dazu gegeben. Die Benutzereingaben waren gute Arbeitspakete bei dem ich keine Probleme hatte und die Gegner in eine Liste zu packen war auch nicht schwer vielleicht werd ich die Liste im Laufe erweitern.
+  Heute hab ich alle Arbeitspakete erledigt Den Schaden zufällig zu auswählen war für mich die grösste Herausforderung weil ich den Zufall nicht erzeugen konnte da ich vergessen habe wie das geht aber ChatGBT hat mir danach ein Theorieinput dazu gegeben. Die Benutzereingaben waren gute Arbeitspakete bei dem ich keine Probleme hatte und die Gegner in eine Liste zu packen war auch nicht schwer vielleicht werd ich die Liste im Laufe erweitern.Heute wurde sehr sehr viel programmiert aber habe auch seit dem Montag angefabgeb und konnte mir mehr Zeit nehmen.
 
 
 
@@ -74,6 +74,7 @@
 
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
