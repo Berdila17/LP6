@@ -65,15 +65,25 @@
 
 ## 19.9
 
-- [ ] Mehrere Runden also eine while Schleife einbauen (solange Spieler lebt kämpfe weiter z.B)
-- [ ] Sieg oder Niederlage prüfen also ob der Kampf zu Ende ist oder nicht.
-- [ ] XP Sytem einbauen also nach jedem    Gegner den man besiegt bekommt man XP
-- [ ] besondere Fähigkeiten an verschiedene Klassen sowie z.B Heiler heilt sich jede Runde 2 HP
+- [x] Mehrere Runden also eine while Schleife einbauen (solange Spieler lebt kämpfe weiter z.B)
+- [x] Sieg oder Niederlage prüfen also ob der Kampf zu Ende ist oder nicht.
+- [x] XP Sytem einbauen also nach jedem    Gegner den man besiegt bekommt man XP
+- [x] besondere Fähigkeiten an verschiedene Klassen sowie z.B Heiler heilt sich jede Runde 2 HP
+
+Heute habe ich alle Arbeitspakete gemacht Die while Schleife und Sieg oder Niderlage prüfen waren kein Problem. Bei XP Ssytem und die verschiedene Fähigkeiten implementieren war halt das Problem das ich ein bisschen überlegen musste wie ich das umsetzen soll nach wie viel XP und so bekommt man ein Level Up etc. Habe auch ein neuer Spieler implementiert und zwar den Heiler aber noch nicht im Program.cs
+
+
+## 26.9 
+
+- [ ] Heiler in Program.cs einbauen das man es auswählen kann.
+- [ ] Heiltränke hinzufügen mit der man die HP auffüllen kann.
+- [ ] Inventarsystem einbauen so das der Spieler zwischen mehrere Waffen wechseln kann.
 
 
 
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
