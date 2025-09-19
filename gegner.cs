@@ -1,6 +1,5 @@
 namespace RPG
 {
-    //Klasse Gegner 
     public class Gegner
     {
         public string Name { get; set; }
@@ -8,26 +7,26 @@ namespace RPG
         public int HP { get; private set; }
         public int Schaden { get; set; }
 
-        // Konstruktor für Gegner
-        public Gegner(string name, int maxHp, int schaden)
+        // 👉 NEU: XP-Reward
+        public int XpReward { get; }
+
+        public Gegner(string name, int maxHp, int schaden, int xpReward = 20)
         {
             Name = name;
             MaxHP = maxHp > 0 ? maxHp : 1;
             HP = MaxHP;
             Schaden = schaden;
+            XpReward = xpReward;
         }
 
-        // prüft ob Gegner noch lebt
         public bool IstLebendig() => HP > 0;
 
-        // Gegner nimmt Schaden 
         public void NimmSchaden(int punkte)
         {
             if (punkte <= 0 || !IstLebendig()) return;
-            HP = Math.Max(0, HP - punkte);
+            HP = Math.Max(0, HP - punkte); // falls .NET: Math.Max
         }
 
-        // Gegner macht Schaden am Spieler
         public void Angreifen(Spieler ziel)
         {
             if (!IstLebendig()) return;
@@ -35,10 +34,9 @@ namespace RPG
             ziel.NimmSchaden(Schaden);
         }
 
-        // Ausgabe
         public void Vorstellen()
         {
-            Console.WriteLine($"Gegner: {Name} – HP: {HP}/{MaxHP} – Schaden: {Schaden}");
+            Console.WriteLine($"Gegner: {Name} – HP: {HP}/{MaxHP} – Schaden: {Schaden} – XP: {XpReward}");
         }
     }
 }
