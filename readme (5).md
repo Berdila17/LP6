@@ -75,14 +75,24 @@ Heute habe ich alle Arbeitspakete gemacht Die while Schleife und Sieg oder Nider
 
 ## 26.9 
 
-- [ ] Heiler in Program.cs einbauen das man es auswählen kann.
-- [ ] Heiltränke hinzufügen mit der man die HP auffüllen kann.
-- [ ] Inventarsystem einbauen so das der Spieler zwischen mehrere Waffen wechseln kann.
+- [x] Heiler in Program.cs einbauen das man es auswählen kann.
+- [x] Heiltränke hinzufügen mit der man die HP auffüllen kann.
+- [x] Inventarsystem einbauen so das der Spieler zwischen mehrere Waffen wechseln kann.
 
+## Reflexion
+
+In dieser Lernperiode habe ich mit OOP in C# gearbeitet und ein Text-RPG gemacht. Dabei habe ich mehr über Klassen, Objekte und Methoden gelernt und verstanden wie diese zusammenarbeiten. Besonders spannend fand ich, dass man mit Hilfe von Vererbung und Kapselung den Code mehr lebendiger wirken lässt. Anfangs war es schwierig den Überblick zu behalten über den ganzen Methoden etc. aber mit der Zeit wurde mir mehr klar und somit war das dann nicht mehr so ein grosses Problem. Das Highlight war der Moment als ich geschafft habe das die Heiler sich automatisch pro Runde geheilt hat. Solche kleinen Funktionen wirken zwar einfach aber sind sehr wichtig für das Programm. Natürlich gab es auch Fehler und Logikprobleme aber das hat mir geholfen über mich hinaus zu wachsen und die Fehler selber zu finden. Insgesamt bin ich mit dem Resultat schon zufrieden.
+
+## eigenes Projekt
+
+<img width="1397" height="1097" alt="image" src="https://github.com/user-attachments/assets/99ca6e00-cded-488e-acb9-32ea6446e9e5" />
+
+Ich habe ein Text-RPG erstellt bei dem man zuerst eine Klasse auswählen muss(Jede Klasse bringt seine Vorteile mit sich). Der Spieler kämpft dann nacheinander gegen Gegner kann beispielsweisee dann Heiltränke benutzen un zwischen mehreren Waffen im Inventar wechseln oder den Gegner angreifen.Das Spiel läuft dann komplett automatisch in der Konsole und zeigt nach jeder Runde deine aktuelle Lage an.
 
 
 
 ☝️ Vergessen Sie nicht, Ihren Code auf github hochzuladen
+
 
 
 
